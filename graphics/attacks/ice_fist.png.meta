@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: b388f38afb9cc4d48b7c8fffa83596d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8696096042790046855
+    second: ice_fist_0
+  - first:
+      213: 7018687019292915888
+    second: ice_fist_1
+  - first:
+      213: -7154138905164317402
+    second: ice_fist_2
+  - first:
+      213: 934518989775777171
+    second: ice_fist_3
+  - first:
+      213: 886543666976767228
+    second: ice_fist_4
+  - first:
+      213: 874901706738347743
+    second: ice_fist_5
+  - first:
+      213: -732346721311656695
+    second: ice_fist_6
+  - first:
+      213: -6482624449393462943
+    second: ice_fist_7
+  - first:
+      213: 5641939541903410583
+    second: ice_fist_8
+  - first:
+      213: -6488098581950630898
+    second: ice_fist_9
+  - first:
+      213: -9164146303691777488
+    second: ice_fist_10
+  - first:
+      213: 8957775425109150347
+    second: ice_fist_11
+  - first:
+      213: -7359719781496162099
+    second: ice_fist_12
+  - first:
+      213: 6457257441896620717
+    second: ice_fist_13
+  - first:
+      213: 5885720055376733978
+    second: ice_fist_14
+  - first:
+      213: 4737792685382313825
+    second: ice_fist_15
+  - first:
+      213: 850947677268032881
+    second: ice_fist_16
+  - first:
+      213: -2836892547749134664
+    second: ice_fist_17
+  - first:
+      213: 151241662726743777
+    second: ice_fist_18
+  - first:
+      213: 3950338457749739855
+    second: ice_fist_19
+  - first:
+      213: -4982028759129173509
+    second: ice_fist_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ice_fist_0
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1459
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973b1d419b2415780800000000000000
+      internalID: -8696096042790046855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_1
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1445
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8799e48a2676160800000000000000
+      internalID: 7018687019292915888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_2
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1264
+        width: 88
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62df0ebe19467bc90800000000000000
+      internalID: -7154138905164317402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_3
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1426
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d2175e11418fc00800000000000000
+      internalID: 934518989775777171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_4
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1416
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcb50c94c2ad4c00800000000000000
+      internalID: 886543666976767228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_5
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1427
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdea5838776442c00800000000000000
+      internalID: 874901706738347743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_6
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1290
+        width: 68
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905fbcf798e26d5f0800000000000000
+      internalID: -732346721311656695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_7
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1412
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161f3a1e8671906a0800000000000000
+      internalID: -6482624449393462943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_8
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 516
+        width: 725
+        height: 893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795026ffe123c4e40800000000000000
+      internalID: 5641939541903410583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_9
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1262
+        width: 91
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04fd1317b4a5f5a0800000000000000
+      internalID: -6488098581950630898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_10
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1239
+        width: 115
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a1eb29d7962d080800000000000000
+      internalID: -9164146303691777488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_11
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1382
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8aca5fe949605c70800000000000000
+      internalID: 8957775425109150347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_12
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1260
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc871892ad50dd990800000000000000
+      internalID: -7359719781496162099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_13
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1249
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2ee7f6e69cc9950800000000000000
+      internalID: 6457257441896620717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_14
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1190
+        width: 87
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a176f1cd4374ea150800000000000000
+      internalID: 5885720055376733978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_15
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 635
+        width: 75
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16728af685500c140800000000000000
+      internalID: 4737792685382313825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_16
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 315
+        width: 322
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d310a676c2fcb00800000000000000
+      internalID: 850947677268032881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_17
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 372
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8beb571224551a8d0800000000000000
+      internalID: -2836892547749134664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_18
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 292
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6211ead71591200800000000000000
+      internalID: 151241662726743777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_19
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 276
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49dcb4c5eb62d630800000000000000
+      internalID: 3950338457749739855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_fist_20
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 262
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1535f4d374cdab0800000000000000
+      internalID: -4982028759129173509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ice_fist_0: -8696096042790046855
+      ice_fist_1: 7018687019292915888
+      ice_fist_10: -9164146303691777488
+      ice_fist_11: 8957775425109150347
+      ice_fist_12: -7359719781496162099
+      ice_fist_13: 6457257441896620717
+      ice_fist_14: 5885720055376733978
+      ice_fist_15: 4737792685382313825
+      ice_fist_16: 850947677268032881
+      ice_fist_17: -2836892547749134664
+      ice_fist_18: 151241662726743777
+      ice_fist_19: 3950338457749739855
+      ice_fist_2: -7154138905164317402
+      ice_fist_20: -4982028759129173509
+      ice_fist_3: 934518989775777171
+      ice_fist_4: 886543666976767228
+      ice_fist_5: 874901706738347743
+      ice_fist_6: -732346721311656695
+      ice_fist_7: -6482624449393462943
+      ice_fist_8: 5641939541903410583
+      ice_fist_9: -6488098581950630898
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
